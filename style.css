@@ -1,0 +1,25 @@
+
+p{
+color: #000000
+}
+
+html, body { 
+	height:100%;
+	width:99%;
+}
+
+body {
+   font: 12px Palatino;
+   background-color: white;
+  }
+  
+#title {
+	color: DarkCyan;
+	padding: 10px;
+}
+
+.content {
+	margin-top: 100px;
+	margin-left: 50px;
+	width: 80%;
+}
