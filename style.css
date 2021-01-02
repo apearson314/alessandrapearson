@@ -21,6 +21,7 @@ body {
 .content {
 	margin-top: 100px;
 	margin-left: 50px;
+	font: 14px Palatino;
 	width: 80%;
 }
 
