@@ -23,3 +23,10 @@ body {
 	margin-left: 50px;
 	width: 80%;
 }
+
+.header {
+	margin-top: 50px;
+	margin-left: 20px;
+	font: 20px Palatino;
+	width: 80%;
+}
