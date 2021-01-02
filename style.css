@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-   font: 12px Palatino;
+   font: 14px Palatino;
    background-color: white;
   }
   
@@ -19,7 +19,7 @@ body {
 }
 
 .content {
-	margin-top: 100px;
+	margin-top: 60px;
 	margin-left: 50px;
 	font: 14px Palatino;
 	width: 80%;
