@@ -7,27 +7,46 @@ html, body {
 	height:100%;
 	width:99%;
 }
-
-body {
-   font: 14px Palatino;
-   background-color: white;
-  }
   
 #title {
 	color: DarkCyan;
 	padding: 10px;
 }
 
-.content {
-	margin-top: 60px;
-	margin-left: 50px;
-	font: 14px Palatino;
-	width: 80%;
-}
-
 .header {
 	margin-top: 50px;
 	margin-left: 20px;
 	font: 20px Palatino;
+	width: 80%;
+}
+
+hr {
+margin-left: 50px;
+height: 10px;
+border-width: 1px;
+color: #5dbcd2;
+background-color: #5dbcd2;
+}
+
+h4 { 
+    display: block;
+    margin-left: 50px;
+    font-weight: bold;
+    font: 14px Palatino;
+}
+
+h4:hover {
+    color: #5dbcd2;
+}
+
+body {
+   font: 16px Palatino;
+   background-color: white;
+  }
+  
+.content {
+	margin-top: 60px;
+	margin-left: 50px;
+	font: 16px Palatino;
 	width: 80%;
 }
