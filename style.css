@@ -50,3 +50,12 @@ body {
 	font: 16px Palatino;
 	width: 80%;
 }
+
+.link {
+color: #000000; 
+text-decoration: none;
+}
+
+.link:hover { 
+	color: #5dbcd2; 
+	}
